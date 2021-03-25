@@ -18,8 +18,6 @@ Homebrew-appstore icon with wide/large Australian age rating
 
 Switch cover icon with small Australian age rating
 ![Aus-sw-sm](</examples/aus-demo-sm.jpg>)
-If you want to make your own icons a few search results can help get some assets to make your own.
-
 Homebrew icon with black border euro age rating
 ![hb-eur-blk](</examples/eur-blk-demo-hb.jpg>)
 
@@ -38,6 +36,10 @@ Homebrew switch style icon with Korean age rating
 
 Switch cover icon with Taiwanese age rating
 ![tw-swi](</examples/tw-demo-hb.jpg>)
+
+***
+
+If you want to make your own icons a few search results can help get some assets to make your own.
 
 
 ```
